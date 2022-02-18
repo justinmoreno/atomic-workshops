@@ -40,5 +40,3 @@ class Node():
             self.left.find_value(value)
 
 
-
-
