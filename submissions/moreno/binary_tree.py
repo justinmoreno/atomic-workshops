@@ -39,4 +39,3 @@ class Node():
         elif value < self.value:
             self.left.find_value(value)
 
-
